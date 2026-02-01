@@ -107,7 +107,7 @@ This is the path of **symbiotic AI** — created of, by, and for the community t
 ## 📚 Learn More
 
 - **Care Ethics:** Tronto, J. C. (1993). *Moral Boundaries: A Political Argument for an Ethic of Care*
-- **Plurality Vision:** Tang, A., Weyl, E. G., et al. *Plurality: The Future of Collaborative Technology and Democracy*
+- **⿻ Vision:** @audreyt, @glenweyl, @giselechou, et al. *Plurality: The Future of Collaborative Technology and Democracy*
 - **ERC-8004:** Ethereum agent registry for verifiable AI identities
 - **OpenClaw:** The framework that powers Local Kamis
 
