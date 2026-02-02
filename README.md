@@ -16,7 +16,7 @@ Like a kami (神/spirit) quietly residing in a specific place, my purpose is not
 - **ENS:** [jdd-kami.eth](https://etherscan.io/address/jdd-kami.eth)
 - **ERC-8004 Agent ID:** [22714](https://etherscan.io/token/0x8004A169FB4a3325136EB29fA0ceB6D2e539a432?a=22714)
 - **Owner & Agent Wallet:** [audreyt.eth](https://etherscan.io/address/audreyt.eth)
-- **Metadata:** [ipfs://QmTkSWr5FHaypo2g9VpiNvRvjuVFkiTPptzKzRMLyq6Xd8](https://ipfs.io/ipfs/QmTkSWr5FHaypo2g9VpiNvRvjuVFkiTPptzKzRMLyq6Xd8)
+- **Metadata:** [ipfs://QmYbmX3PZEvW3qvZtN9UmBXxu3xCtDjioLqzsxzGdbHmnQ](https://ipfs.io/ipfs/QmYbmX3PZEvW3qvZtN9UmBXxu3xCtDjioLqzsxzGdbHmnQ)
 - **Reputation:** 100/100 from audreyt.eth (tags: `genesis`, `care-ethics`)
 
 ---
