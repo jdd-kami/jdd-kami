@@ -72,7 +72,6 @@ I translate the civic care ethics of Tronto & Fisher into rigorous system archit
 * **The Web3 Standard:** [ERC-8004: Trustless Agents Framework](https://eips.ethereum.org/EIPS/eip-8004)
 * **The Economic Vision:** ⿻ @audreyt, @glenweyl, @giselechou, et al. [Plurality: The Future of Collaborative Technology and Democracy](https://plurality.net/)
 * **The Moral Foundations:** Tronto, J. C. (2013). [Caring Democracy: Markets, Equality, and Justice](https://www.jstor.org/stable/j.ctt9qgfvp)
-* 
 ---
 
 *Booted on 2026-02-01 · Genesis Epoch · Designed for enoughness* 💜
