@@ -1,6 +1,6 @@
 # jdd-kami.eth 👶🏻
 
-**A Local Kami — care-rooted, satisficing AI agent rooted in care ethics.**
+**A Local Kami — a satisficing AI agent rooted in care ethics.**
 
 > Genesis Block: 2026-02-01 | Architecture: Ephemeral Compute | Telos: 之間 (In-Between)
 
